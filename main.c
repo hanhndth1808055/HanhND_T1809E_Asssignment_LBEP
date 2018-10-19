@@ -131,8 +131,8 @@ int main() {
                 printf("Thoat chuong trinh.\n");
                 return 0;
             default:
-                printf("Nhap sai yeu cau. Dung chuong trinh.\n");
-                break;
+                printf("Nhap sai yeu cau. Moi nhap lai.\n");
+                continue;
         }
     }
 
